@@ -1,5 +1,5 @@
 <?php
-require('connection.php');
+
 require('functions.inc.php');
 ?>
 
