@@ -1,6 +1,6 @@
 <?php
 session_start();
-include("connection.php");
+
 require('top.inc.php');
 ?>
 <div class="content pb-0">
